@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFSS PyAEDT"
+  short_description: "Automate HFSS project setup, solves, and Touchstone export with PyAEDT."
+  default_prompt: "Use $hfss-pyaedt to inspect, create, or automate an HFSS project through PyAEDT."
